@@ -23,13 +23,6 @@ Esses são meus contatos.
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:queiroz.lorrany09@gmail.com)
 
 ---
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Lorrany09/Lorrany09/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Lorrany09/Lorrany09/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/Lorrany09/Lorrany09/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
-
----
 
 <p align="center">
   <i>
